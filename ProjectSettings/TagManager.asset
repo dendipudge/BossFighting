@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - monetka
+  - level 2
+  - level 1
+  - level 3
+  - level 4
+  - to level 3
+  - Patron
+  - level 5
+  - BD
+  - KOTL
+  - KL
+  - MechToKotl
+  - Vertical1
+  - Vertical2
+  - Vertical 3
+  - Vertical3
+  - LytsheByYaNeSholVles
+  - SecondSpell
+  - ThirdSpell
+  - Lestnica
+  - Magazin
+  - Lavovy
+  - lava
+  - Lavova
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - platform
+  - Kotl
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
